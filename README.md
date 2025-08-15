@@ -1,7 +1,7 @@
 # Image-Resizer
 Image Resizer allows you to quickly resize images using a GUI. You can also change the language.
 
-# Image Resizer / Redimensionneur d'images
+# 🖼 Image Resizer / Redimensionneur d'images
 
 A simple Python tool with a graphical interface (Tkinter) to resize images easily.  
 Un outil Python simple avec une interface graphique (Tkinter) pour redimensionner facilement vos images.
