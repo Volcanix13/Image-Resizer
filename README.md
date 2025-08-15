@@ -20,7 +20,7 @@ Un outil Python simple avec une interface graphique (Tkinter) pour redimensionne
 ### Requirements
 Install the dependencies before running:
 ```
-pip install pillow
+py -m pip install pillow
 ```
 
 ### How to Run
@@ -42,5 +42,5 @@ python resizer.py
 ### Prérequis
 Installez les dépendances avant de lancer :
 ```
-pip install pillow
+py -m pip install pillow
 ```
